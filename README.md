@@ -2,7 +2,7 @@
 
 This project utilizes ray tracing to model room acoustics, in particular to probe the room impulse response and reverberation time of different room geometries.
 
-<figure>
+<figure style="text-align: center;">
   <img width="204" height="194" alt="Screenshot 2025-07-23 at 11 48 27 PM" src="https://github.com/user-attachments/assets/0e315ba9-acea-4352-8e06-cc6c323e4deb" />
   <figcaption> An example ray tracing visualization.
 </figure>
